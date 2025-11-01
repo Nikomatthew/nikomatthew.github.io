@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Niko的Blog # the main title
 
-tagline: 主Luau 副Python # it will display as the subtitle
+tagline: 主Luau # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   hi

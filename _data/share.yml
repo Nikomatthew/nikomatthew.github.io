@@ -4,7 +4,7 @@
 platforms:
   - type: QQ
     icon: "fa-brands fa-qq"
-    link: "http://connect.qq.com/widget/shareqq/index.html?url=URL"
+    link: "https://connect.qq.com/widget/shareqq/index.html?url=URL"
 
   # Uncomment below if you need to.
   #

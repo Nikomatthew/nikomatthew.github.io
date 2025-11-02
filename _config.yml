@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://nikomatthew.github.io"
 
 github:
-  username: 1 # change to your GitHub username
+  username: Niko # change to your GitHub username
 
 twitter:
-  username: 1 # change to your Twitter username
+  username: Niko # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
+theme_mode:
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

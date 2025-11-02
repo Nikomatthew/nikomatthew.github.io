@@ -7,6 +7,10 @@ image:
   path: /2025/11/02/7hZnZQ.png
 ---
 
+> 教程为旧版本(新版本增加了全局密码) 请等待更新
+{: .prompt-danger }
+<!-- markdownlint-restore -->
+
 ## 客户端下载&启动器设置
 
 首先进入QQ群文件里找到客户端压缩包

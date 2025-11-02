@@ -8,8 +8,7 @@ image:
 ---
 
 > 教程为旧版本(新版本增加了全局密码) 请等待更新
-{: .prompt-danger }
-<!-- markdownlint-restore -->
+{: .prompt-info }
 
 ## 客户端下载&启动器设置
 

@@ -7,7 +7,7 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=cd-2.frp.one&port=51663&stype=auto&theme=simple
 ---
 
-### ↑↑↑基岩端请使用该功能跳过Java教程
+↑↑↑基岩端请使用该功能跳过Java教程
 
 > 大图中的数据并不准确
 {: .prompt-info }

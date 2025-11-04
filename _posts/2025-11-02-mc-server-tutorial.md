@@ -8,7 +8,7 @@ image:
 ---
 
 > _大图中的数据并不准确_
-{: .prompt-warning }
+{: .prompt-info }
 
 ## 客户端下载&启动器设置
 

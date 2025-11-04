@@ -7,6 +7,8 @@ image:
   path: /2025/11/02/7hZnZQ.png
 ---
 
+![Desktop View](https://motd.minebbs.com/api/status_img?ip=cd-2.frp.one&port=51663&stype=auto&theme=simple)
+
 > _教程为旧版本(新版本增加了全局密码与基岩版互通) 请等待更新且不要下载群内旧版客户端_
 {: .prompt-warning }
 

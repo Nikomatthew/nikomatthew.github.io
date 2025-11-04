@@ -11,7 +11,7 @@ image:
 
 > 大图中的数据并不准确
 {: .prompt-info }
-> 
+
 # Java客户端
 
 ## 下载&设置
@@ -65,9 +65,11 @@ cd-2.frp.one:51663
 首先点击下列链接下载客户端
 
 64位:
+
 <https://bbk.endyun.ltd/s/1-21-90-3v8>
 
 32位:
+
 <https://bbk.endyun.ltd/s/1-21-90-3v7>
 
 安装完毕之后请登录Xbox/Microsoft账号

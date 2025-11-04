@@ -83,14 +83,14 @@ cd-2.frp.one:51663
 /register 全局代码 你的密码 确认密码
 ```
 
-# 全局代码`Global Password`
+#### 全局代码`Global Password`
 一周至三周更新一次 更新后会重置注册状态 需要重新执行一遍注册指令
 > _联系我获取全局代码_
 
-# 你的密码`Password`
+#### 你的密码`Password`
 你的账号密码 以后登录需要使用这个密码
 
-# 确认密码`Password`
+#### 确认密码`Password`
 你的确认密码 同上条
 
 ## 成功进入

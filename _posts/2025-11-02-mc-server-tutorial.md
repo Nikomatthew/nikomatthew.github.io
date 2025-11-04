@@ -64,6 +64,8 @@ cd-2.frp.one:51663
 64位:
 ![64位](https://bbk.endyun.ltd/s/1-21-90-3v8)
 
+ 
+
 32位:
 ![32位](https://bbk.endyun.ltd/s/1-21-90-3v7)
 

@@ -75,9 +75,6 @@ cd-2.frp.one:51663
 {: .prompt-info }
 
 首先进入网站下载客户端
-[64位下载链接](https://bbk.endyun.ltd/s/1-21-90-3v8)
-
-[32位下载链接](https://bbk.endyun.ltd/s/1-21-90-3v7)
 
 安装完毕之后请登录Xbox/Microsoft账号
 

@@ -98,7 +98,7 @@ theme_mode:
 cdn: "https://i.imgs.ovh"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/2025/11/02/7hORR9.jpeg"
+avatar: "https://q.qlogo.cn/headimg_dl?dst_uin=3522616004&spec=640&img_type=png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

@@ -59,9 +59,13 @@ cd-2.frp.one:51663
 > 请酌情游玩
 {: .prompt-info }
 
-首先进入网站下载客户端
+首先点击下列小图标下载客户端
 
-![32位]<https://bbk.endyun.ltd/s/1-21-90-3v7>
+64位:
+![64位](https://bbk.endyun.ltd/s/1-21-90-3v8)
+
+32位:
+![32位](https://bbk.endyun.ltd/s/1-21-90-3v7)
 
 安装完毕之后请登录Xbox/Microsoft账号
 

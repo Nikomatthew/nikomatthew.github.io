@@ -4,7 +4,7 @@ author: Niko
 date: 2025-11-01 23:30:00 +0800
 categories: [教程]
 image:
-  path: https://motd.minebbs.com/api/status_img?ip=vip.xy.frp.one&port=37889&stype=auto&theme=simple
+  path: https://motd.minebbs.com/api/status_img?ip=sh.frp.one&port=60000&stype=auto&theme=simple
 ---
 
 > 大图中的数据并不准确 且仅Java端属性展示

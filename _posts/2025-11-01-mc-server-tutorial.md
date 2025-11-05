@@ -4,7 +4,7 @@ author: Niko
 date: 2025-11-01 23:30:00 +0800
 categories: [教程]
 image:
-  path: https://motd.minebbs.com/api/status_img?ip=cd-2.frp.one&port=51663&stype=auto&theme=simple
+  path: https://motd.minebbs.com/api/status_img?ip=vip.xy.frp.one&port=37889&stype=auto&theme=simple
 ---
 
 ↑↑↑基岩端请使用该功能跳过Java教程
@@ -44,7 +44,7 @@ _旧版本压缩包 新版本为 F&S2_
 在直接连接/添加服务器中输入下列地址
 
 ```text
-cd-2.frp.one:51663
+vip.xy.frp.one:37889
 ```
 
 ![服务器](/2025/11/02/7hZEB6.png)
@@ -83,10 +83,10 @@ cd-2.frp.one:51663
 添加`服务器地址`与`端口`
 
 ```text
-cd-2.frp.one
+vip.xy.frp.one
 ```
 ```text
-23431
+27391
 ```
 
 ![服务器](/2025/11/04/7BP3Pg.png)
@@ -190,7 +190,8 @@ _示例_
   - [ ] 服务器预生成区块
   - [ ] 添加镜头动作
   - [x] 添加动作包
-
+  - [x] 节点优化
+    
 - [ ] 基岩优化
   - [x] 节点优化
   - [ ] 添加动作包

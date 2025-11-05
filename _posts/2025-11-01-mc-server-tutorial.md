@@ -7,9 +7,7 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=vip.xy.frp.one&port=37889&stype=auto&theme=simple
 ---
 
-↑↑↑基岩端请使用该功能跳过Java教程
-
-> 大图中的数据并不准确
+> 大图中的数据并不准确 且仅Java端属性展示
 {: .prompt-info }
 
 ## Java客户端
@@ -44,7 +42,7 @@ _旧版本压缩包 新版本为 F&S2_
 在直接连接/添加服务器中输入下列地址
 
 ```text
-vip.xy.frp.one:37889
+sh.frp.one:60000
 ```
 
 ![服务器](/2025/11/02/7hZEB6.png)
@@ -84,10 +82,10 @@ _示例 图中地址为优化前地址_
 添加`服务器地址`与`端口`
 
 ```text
-vip.xy.frp.one
+sh.frp.one
 ```
 ```text
-27391
+30000
 ```
 
 ![服务器](/2025/11/04/7BP3Pg.png)

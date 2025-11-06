@@ -16,7 +16,7 @@ image:
 
 首先从该网址下载客户端压缩包
 <https://easylink.cc/9w36ik>
-_最新版本为F&S3_
+_F&S3_
 
 解压缩启动`HMCL-3.7.3.exe`
 

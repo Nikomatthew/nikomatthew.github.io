@@ -7,7 +7,7 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=sh.frp.one&port=60000&stype=auto&theme=simple
 ---
 
-> 大图中的数据并不准确 且仅Java端属性展示
+> 因为只有我和Area玩 服务器将在11.28服务器到期 如果还是现状将不会继续续费
 {: .prompt-info }
 
 ## Java客户端
@@ -15,8 +15,8 @@ image:
 ### 下载&设置
 
 首先从该网址下载客户端压缩包
-<https://easylink.cc/9w36ik>
-_F&S3_
+https://easylink.cc/5lyldc
+_F&S3修复版 应该是最终版本_
 
 解压缩启动`HMCL-3.7.3.exe`
 

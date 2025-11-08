@@ -7,7 +7,7 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=sh.frp.one&port=60000&stype=auto&theme=simple
 ---
 
-> 因为只有我和Area玩 服务器将在11.28服务器到期 如果还是现状将不会继续续费
+> 服务器重新开启 如果11.28之前一直没人玩将停止续费服务器
 {: .prompt-info }
 
 ## Java客户端

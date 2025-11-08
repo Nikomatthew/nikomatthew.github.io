@@ -7,6 +7,7 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=sh.frp.one&port=60000&stype=auto&theme=simple
 ---
 
+![展示](/2025/11/08/7NqtZC.png)
 > 服务器重新开启 如果11.28之前一直没人玩将停止续费服务器
 {: .prompt-info }
 

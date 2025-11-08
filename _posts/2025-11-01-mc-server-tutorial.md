@@ -15,7 +15,7 @@ image:
 ### 下载&设置
 
 首先从该网址下载客户端压缩包
-https://easylink.cc/5lyldc
+<https://easylink.cc/5lyldc>
 _F&S3修复版 应该是最终版本_
 
 解压缩启动`HMCL-3.7.3.exe`

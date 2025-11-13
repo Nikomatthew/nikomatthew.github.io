@@ -20,7 +20,7 @@ _游戏实机_
 <https://easylink.cc/pl3c21>
 _F&S4_
 
-解压缩启动`HMCL-3.7.3.exe`
+解压缩启动`HMCL-3.7.5.exe`
 
 ![主页](/2025/11/02/7hZ2qF.png)
 

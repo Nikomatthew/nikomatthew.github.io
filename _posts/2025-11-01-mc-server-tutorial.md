@@ -4,7 +4,7 @@ author: Niko
 date: 2025-11-01 23:30:00 +0800
 categories: [教程]
 image:
-  path: https://motd.minebbs.com/api/status_img?ip=vip.fz.frp.one&port=10000&stype=auto&theme=simple
+  path: https://motd.minebbs.com/api/status_img?ip=frpwf.xhyonline.com&port=22332&stype=auto&theme=simple
 ---
 
 ![展示](/2025/11/08/7NqtZC.png)

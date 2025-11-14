@@ -17,8 +17,8 @@ _游戏实机_
 ### 下载&设置
 
 首先从该网址下载客户端压缩包
-<https://easylink.cc/pl3c21>
-_F&S4_
+<https://easylink.cc/g7h3gw>
+_F&S V5 非该版本请更新_
 
 解压缩启动`HMCL-3.7.5.exe`
 

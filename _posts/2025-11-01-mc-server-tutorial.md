@@ -1,4 +1,4 @@
----
+<img width="483" height="498" alt="image" src="https://github.com/user-attachments/assets/171ed68b-78b2-4943-9a76-2d1213d35a40" />---
 title: F&S客户端教程
 author: Niko
 date: 2025-11-01 23:30:00 +0800
@@ -18,9 +18,11 @@ _游戏实机_
 
 首先从该网址下载客户端压缩包
 
-<https://easylink.cc/1xj8xu>
+<https://easylink.cc/wslcq0>
 
-_F&S V5 Fixed 内存泄漏修复版 如果你用的V5请重新下载_
+_F&S Final V6最终版_
+
+_V6与V5区别 '压缩包742MB→363MB'/'游戏内语音聊天'/'性能优化 本机测试80-160FPS→240-400FPS'_
 
 解压缩启动`HMCL-3.7.5.exe`
 

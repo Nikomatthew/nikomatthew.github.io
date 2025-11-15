@@ -18,9 +18,9 @@ _游戏实机_
 
 首先从该网址下载客户端压缩包
 
-<https://easylink.cc/g7h3gw>
+<https://easylink.cc/1xj8xu>
 
-_F&S V5 非该版本请更新_
+_F&S V5 Fixed 内存泄漏修复版 如果你用的V5请重新下载_
 
 解压缩启动`HMCL-3.7.5.exe`
 

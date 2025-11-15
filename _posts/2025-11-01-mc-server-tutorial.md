@@ -1,4 +1,4 @@
-<img width="483" height="498" alt="image" src="https://github.com/user-attachments/assets/171ed68b-78b2-4943-9a76-2d1213d35a40" />---
+---
 title: F&S客户端教程
 author: Niko
 date: 2025-11-01 23:30:00 +0800

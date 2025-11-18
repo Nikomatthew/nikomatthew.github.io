@@ -19,8 +19,11 @@ _游戏实机_
 首先从该网址下载客户端压缩包
 
 <https://easylink.cc/6b4f7>
+
 _本体_
+
 <https://easylink.cc/100k4g>
+
 _附加优化包 解压到`.minecraft/mods`中_
 
 _F&S Final V7最终版 往后不会更新客户端 如果使用的是旧版 请一定要更新到该版本_

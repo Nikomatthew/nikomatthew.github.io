@@ -1,5 +1,5 @@
 ---
-title: F&S客户端教程
+title: F&S客户端/服务器相关信息
 author: Niko
 date: 2025-11-01 23:30:00 +0800
 categories: [教程]

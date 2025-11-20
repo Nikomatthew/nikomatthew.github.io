@@ -19,13 +19,11 @@ _游戏实机_
 
 首先从该网址下载客户端压缩包
 
-<https://easylink.cc/6b4f7>
+<https://easylink.cc/6b4f7> _客户端本体_
 
-_本体_
+<https://easylink.cc/100k4g> _附加优化包_
 
-<https://easylink.cc/100k4g>
-
-_附加优化包 解压到`.minecraft/mods`中_
+_优化包解压到`.minecraft/mods`中_
 
 
 

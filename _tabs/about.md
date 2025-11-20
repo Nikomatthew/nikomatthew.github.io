@@ -7,5 +7,5 @@ order: 2
 
 捐赠二维码:
 
-![微信](/2025/11/17/CfNR9p.png){: .w-50 .shadow}
-![支宝](/2025/11/17/CfNAFc.jpeg){: .w-50 .shadow}
+![微信](/2025/11/17/CfNR9p.png){: .w-75 .shadow}
+![支宝](/2025/11/17/CfNAFc.jpeg){: .w-75 .shadow}

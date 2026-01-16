@@ -12,26 +12,20 @@ _游戏实图_
 
 ## 服务器地址
 
-Java/Boat端
-
-地址:
+### Java/Boat端
 
 ```text
 java.nikomatthew.top
 ```
 
-基岩端
+###基岩端
 
 > 基岩端的端口可能会一月一改 进不去的时候可以看一下网站有没有更新
 {: .prompt-info }
 
-地址:
-
 ```text
 bedrock.nikomatthew.top
 ```
-
-端口:
 
 ```text
 65521

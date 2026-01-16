@@ -4,14 +4,38 @@ author: Niko
 date: 2025-11-01 23:30:00 +0800
 categories: [教程]
 image:
-  path: https://motd.minebbs.com/api/status_img?ip=java.nikomatthew.top&stype=auto&theme=dark_tech
+  path: https://motd.minebbs.com/api/status_img?ip=java.nikomatthew.top&stype=auto&theme=simple
 ---
 
 ![展示](/2025/11/08/7NqtZC.png)
 _游戏实图_
 
-> 该服务器将持续运行
+## 服务器地址
+
+Java/Boat端
+
+地址:
+
+```text
+java.nikomatthew.top
+```
+
+基岩端
+
+> 基岩端的端口可能会一月一改 进不去的时候可以看一下网站有没有更新
 {: .prompt-info }
+
+地址:
+
+```text
+bedrock.nikomatthew.top
+```
+
+端口:
+
+```text
+65521
+```
 
 ## Java客户端
 
@@ -44,11 +68,7 @@ _V7与V5区别 `压缩包742MB→367MB`/`游戏内语音聊天`/`性能优化(�
 
 在主菜单里点击多人模式
 
-在直接连接/添加服务器中输入下列地址
-
-```text
-java.nikomatthew.top
-```
+在直接连接/添加服务器中输入Java服务器地址
 
 ![服务器](/2025/11/02/7hZEB6.png)
 _示例 图中地址为旧地址_
@@ -129,14 +149,7 @@ _示例 需自己寻找文件下载路径_
 
 点击`游戏`→`服务器`→`添加服务器`
 
-添加`服务器地址`与`端口`
-
-```text
-bedrock.nikomatthew.top
-```
-```text
-65521
-```
+添加基岩端`服务器地址`与`端口`
 
 ![服务器](/2025/11/04/7BP3Pg.png)
 _示例 图中地址为优化前地址_

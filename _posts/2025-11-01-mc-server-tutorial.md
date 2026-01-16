@@ -7,6 +7,8 @@ image:
   path: https://motd.minebbs.com/api/status_img?ip=java.nikomatthew.top&stype=auto&theme=simple
 ---
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1958328731&auto=1&height=66"></iframe>
+
 ![展示](/2025/11/08/7NqtZC.png)
 _游戏实图_
 

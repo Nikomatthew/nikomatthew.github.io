@@ -4,7 +4,7 @@ author: Niko
 date: 2026-01-21 11:30:00 +0800
 categories: [教程]
 image:
-  path: /2026/01/21/yA9gaO.png
+  path: https://i.imgs.ovh/2026/01/21/yA9gaO.png
 ---
 
 # WIP

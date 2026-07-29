@@ -6,6 +6,7 @@ categories: [教程]
 image:
   path: https://motd.minebbs.com/api/status_img?ip=java.nikomatthew.top&stype=auto&theme=dark_tech
 ---
+_因为图床失效 该教程里所有图片失效_
 
 ![展示](/2025/11/08/7NqtZC.png)
 _游戏实图_
